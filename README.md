@@ -132,7 +132,7 @@ graph TD
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/<your-username>/honeyyyb.git
+   git clone https://github.com/suryaprakashdeveloperai/honeyyyb.git
    cd honeyyyb
    ```
 
