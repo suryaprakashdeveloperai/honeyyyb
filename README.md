@@ -1,5 +1,6 @@
 # 🍯 Honeyyyb — Smart Personal Finance, Relationship Budgeting & P2P Ledger
 
+[![Download APK](https://img.shields.io/badge/Download_APK-v1.0.0_Release-FF3366?style=for-the-badge&logo=android&logoColor=white)](https://github.com/suryaprakashdeveloperai/honeyyyb/releases/download/v1.0.0/Honeyyyb-v1.0.0-release.apk)
 [![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
 [![Dart](https://img.shields.io/badge/Dart-3.12.2+-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
 [![Kotlin](https://img.shields.io/badge/Kotlin-Android_Native-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org)
@@ -8,6 +9,11 @@
 [![Build & Test](https://img.shields.io/badge/Tests-Passing-brightgreen?style=for-the-badge)](#-test-suite--quality-assurance)
 
 > **Honeyyyb** is a next-generation, offline-first personal finance application combining automated payment tracking, peer-to-peer debt ledgers, relationship/couple milestone budgeting, and **Honey AI** — an interactive, bilingual (Tamil & English) voice-enabled companion.
+
+### 📥 Instant Download
+👉 **[Download Honeyyyb-v1.0.0-release.apk (58.7 MB)](https://github.com/suryaprakashdeveloperai/honeyyyb/releases/download/v1.0.0/Honeyyyb-v1.0.0-release.apk)**  
+*(Installable on any Android phone running Android 8.0+)*
+
 
 ---
 
